@@ -10,11 +10,11 @@ Kattints a zöld Code gombra!
 
 1-> Csomagold ki a ZIP-et!
 
-2-> Fivem_Kozi.exe-t kell elindítani!(Windows vírusnak észlelheti!)
+2-> Fivem_Kozi.exe-t kell elindítani! (Windows vírusnak észlelheti!)
 
-3-> Regisztrálj be a kapott license kulccsal(Jelszavad sha256 titkosítással megy át szerverre és localon is titkosítva van!)
+3-> Regisztrálj be a kapott license kulccsal! (Jelszavad sha256 titkosítással megy át szerverre és localon is titkosítva van!)
 
-4-> Fivem-ben lépj be a gta5-be lépj fel a szerverre! Settings-ben az Advanced Graphics-nál a Screen Type-ot állítsd Full Screen(borderless)-re és at Aspect Ratio-t 4:3-ra továbbá Resolution-t 1920 x 1080-ra!
+4-> Fivem-ben lépj be lépj fel a szerverre! Settings-ben az Advanced Graphics-nál a Screen Type-ot állítsd Full Screen(borderless)-re és at Aspect Ratio-t 4:3-ra továbbá Resolution-t 1920 x 1080-ra!
 
 5-> Ne legyen bent semilyen futás anim vagy Fast Strafe
 
