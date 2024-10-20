@@ -14,15 +14,19 @@ Kattints a zöld Code gombra!
 
 3-> Regisztrálj be a kapott license kulccsal! (Jelszavad sha256 titkosítással megy át szerverre és localon is titkosítva van!)
 
-4-> Fivem-ben lépj be lépj fel a szerverre! Settings-ben az Advanced Graphics-nál a Screen Type-ot állítsd Full Screen(borderless)-re és at Aspect Ratio-t 4:3-ra továbbá Resolution-t 1920 x 1080-ra!
+4-> Fivem-ben lépj be lépj fel a szerverre! 
 
-5-> Ne legyen bent semilyen futás anim vagy Fast Strafe
+5-> Settings-ben az Advanced Graphics-nál a Screen Type-ot állítsd Full Screen(borderless)-re és at Aspect Ratio-t 4:3-ra továbbá Resolution-t 1920 x 1080-ra!
 
-6-> Hozd elő a Fivem_Kozi.exe-t és ha kell állitsd be, hogy a térkép 100%-ban látszodjon a programban! Ha kell akkor az arrow pozícióját is úgy hogy a nyíl közepén legyen pont!
+6-> A Keyboard / Mouse-ban az Input Method legyen Windows és a Mouse Look Sensitivity legyen teljesen lehúzva!
 
-7-> Ha mindent beállítottál a nyíl közepén egy zöld, a fehér cp közepén pedig egy kék pontnak kell lennie!
+7-> Ne legyen bent semilyen futás anim vagy Fast Strafe
 
-8-> Ha látod jobb fent a distance szöveget nyomd meg a '2'-es gombot és ha mindent jól csináltál elkezdi csinálni a közmunkát magátol!
+8-> Hozd elő a Fivem_Kozi.exe-t és ha kell állitsd be, hogy a térkép 100%-ban látszodjon a programban! Ha kell akkor az arrow pozícióját is úgy hogy a nyíl közepén legyen pont!
+
+9-> Ha mindent beállítottál a nyíl közepén egy zöld, a fehér cp közepén pedig egy kék pontnak kell lennie!
+
+10-> Ha látod jobb fent a distance szöveget nyomd meg a '2'-es gombot és ha mindent jól csináltál elkezdi csinálni a közmunkát magátol!
 
 
 !!!FOLYAMATOS FEJLESZTÉS ALATT VAN!!!
